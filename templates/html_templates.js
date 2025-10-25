@@ -333,7 +333,7 @@ function generateOverlayEdit(task, taskCategory) {
                     <span style="color: red">*</span><span>This field is required</span>
                 </div>
                 <div class="task-edit-buttons">
-                    <button onmousemove="showErrorMsg()" type="submit" disabled id="save-changes-bttn" class="create-task-button">OK<img src="./img/buttonCheck.svg" alt="Button Check"></button>
+                    <button onmousemove="showErrorMsg()" type="submit" id="save-changes-bttn" class="create-task-button">OK<img src="./img/buttonCheck.svg" alt="Button Check"></button>
                 </div>
             </div>
         </form>
